@@ -20,5 +20,5 @@ repos:
 #if you are a small dev, you prob. don't want to restrict your master? Why is that even `best-practice`?
 #   - id: no-commit-to-branch
     - id: trailing-whitespace
-    # if you wish to use Markdown hard line breaks, use \
-    # See also: https://github.github.com/gfm/#hard-line-break
+    #if you wish to use Markdown hard line breaks, use \
+    #See also: https://github.github.com/gfm/#hard-line-break
