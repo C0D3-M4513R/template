@@ -6,9 +6,9 @@ root = true
 charset = utf-8
 ;UTF-8 supports most things, unlike some wierd defaults, that are sometimes used. UTF-16 is not as wide adopted?
 end_of_line = lf
-;Unix already dominates the world. With programming it is no exeption 
-indent_style = tab
-indent_size = 4
+;Unix already dominates the world. With programming it is no exeption
+indent_style = space
+indent_size = 2
 insert_final_newline = true
 ;For consistency
 trim_trailing_whitespace = true
